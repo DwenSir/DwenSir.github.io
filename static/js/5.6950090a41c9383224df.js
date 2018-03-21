@@ -1,0 +1,2 @@
+webpackJsonp([5],{Czfu:function(t,e){},xNC6:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var s={render:function(){var t=this.$createElement,e=this._self._c||t;return e("main",[e("div",[this._v("\n    "+this._s(this.msg)+"\n  ")])])},staticRenderFns:[]};var i=n("VU/8")({name:"HOBBY",data:function(){return{msg:"这是我的爱好页面"}}},s,!1,function(t){n("Czfu")},"data-v-5c73bb44",null);e.default=i.exports}});
+//# sourceMappingURL=5.6950090a41c9383224df.js.map

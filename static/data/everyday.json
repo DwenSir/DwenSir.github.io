@@ -11,6 +11,9 @@
     },{
       "en":"Keep integrity at every cost.",
       "zh":"要正直，不惜一切代价。———— Nas,Bridging The Gap"
+    },{
+      "en":"Never let the fear of striking out keep you from playing the game.",
+      "zh":"永远不要因为害怕被淘汰而不去争取。———— Babe Ruth"
     }
   ],
   "callme": {
@@ -55,6 +58,9 @@
       },{
         "text":"在IE下运行钩子函数抛出异常ReferenceError:Promise",
         "a":"http://blog.csdn.net/zjb12316/article/details/78941989"
+      },{
+        "text":"ajax与axios及Fetch的区别",
+        "a":"https://segmentfault.com/a/1190000012836882"
       }
     ]
   }

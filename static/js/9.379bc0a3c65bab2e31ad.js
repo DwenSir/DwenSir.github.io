@@ -1,2 +1,0 @@
-webpackJsonp([9],{"5s3X":function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var s={render:function(){var e=this.$createElement,t=this._self._c||e;return t("main",[t("div",[this._v("\n    "+this._s(this.msg)+"\n  ")])])},staticRenderFns:[]};var a=n("VU/8")({name:"WEB",data:function(){return{msg:"这是关于我的web技术页面"}}},s,!1,function(e){n("PEPT")},"data-v-1ba426ac",null);t.default=a.exports},PEPT:function(e,t){}});
-//# sourceMappingURL=9.379bc0a3c65bab2e31ad.js.map

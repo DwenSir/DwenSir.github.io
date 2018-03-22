@@ -1,2 +1,0 @@
-webpackJsonp([4],{QoIy:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var s={render:function(){var e=this.$createElement,n=this._self._c||e;return n("main",[n("div",[this._v("\n    "+this._s(this.msg)+"\n  ")])])},staticRenderFns:[]};var i=t("VU/8")({name:"NODEJS",data:function(){return{msg:"这是关于我的nodejs技术页面"}}},s,!1,function(e){t("elxQ")},"data-v-7ef62cd5",null);n.default=i.exports},elxQ:function(e,n){}});
-//# sourceMappingURL=4.d06c0ca0ce6ed065e586.js.map

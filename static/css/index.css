@@ -14,6 +14,10 @@ p{word-wrap:break-word}
 .activeBg{
   background-color: #3F4042 !important;
 }
+[v-cloak] {
+  display:none;
+
+}
 /*移动端屏幕适配*/
 @media (min-width: 320px){html{font-size: 16px;} }
 @media (min-width: 340px){html{font-size: 17px;} }

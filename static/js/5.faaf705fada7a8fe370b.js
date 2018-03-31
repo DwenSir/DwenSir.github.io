@@ -1,2 +1,0 @@
-webpackJsonp([5],{"5s3X":function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var s={render:function(){var t=this.$createElement,e=this._self._c||t;return e("main",[e("div",{staticClass:"homes-content"},[e("h1",[this._v(this._s(this.msg)+"内容区域,待更新...")])])])},staticRenderFns:[]};var a=n("VU/8")({name:"WEB",data:function(){return{msg:"这是关于我的web技术页面"}}},s,!1,function(t){n("eqtR")},"data-v-53f282f1",null);e.default=a.exports},eqtR:function(t,e){}});
-//# sourceMappingURL=5.faaf705fada7a8fe370b.js.map

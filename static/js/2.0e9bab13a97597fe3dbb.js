@@ -1,2 +1,0 @@
-webpackJsonp([2],{"T+Dj":function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var s={render:function(){var t=this.$createElement,e=this._self._c||t;return e("main",[e("div",{staticClass:"homes-content"},[e("h1",[this._v(this._s(this.msg)+"内容区域,待更新...")])])])},staticRenderFns:[]};var a=n("VU/8")({name:"PYTHON",data:function(){return{msg:"这是关于我的python技术页面"}}},s,!1,function(t){n("nblZ")},"data-v-900fe4ba",null);e.default=a.exports},nblZ:function(t,e){}});
-//# sourceMappingURL=2.0e9bab13a97597fe3dbb.js.map

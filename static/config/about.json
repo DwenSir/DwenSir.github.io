@@ -1,0 +1,26 @@
+{
+  "img_addr":"../../static/img/me.jpj",
+  "infos":[
+    {
+      "head":"个人介绍",
+      "text_li":[
+        "大家好，欢迎来到听风看海个人博客,我的名字叫杜启明.",
+        "95后,对于互联网有着浓厚的兴趣,喜欢对于技术性问题探寻.",
+        "久而久之，自己也累积了很多的经验，我想把我的这些经验分享给大家...",
+        "个人喜欢简约和一切美好的事物！",
+        "喜欢美食、音乐、电影、游戏、编程...",
+        "虽然不是大神,但就是要搞事情."
+      ]
+    },
+    {
+      "head":"个人技能",
+      "text_li":[
+        "前端：html5, css3, jq, js, bootstrap, vue2, iview, webpack...",
+        "后端golang：gin框架, 了解beego, 常用基本库, 操作mongodb/redis等常用数据库, Goland...",
+        "后端python：xlrd, xlsxWriter, pymongo, python-mydql, construct, Pycharm...",
+        "数据库：mysql, mongodb, redis...",
+        "系统：linux的基本指令操作, vim操作..."
+      ]
+    }
+  ]
+}
